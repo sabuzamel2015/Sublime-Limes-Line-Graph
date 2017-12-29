@@ -7,7 +7,7 @@ We have provided some data in different lists in script.py. Look through these l
 3.
 Create a figure of width 12 and height 8.
 
-Stuck? Get a hint
+
 
 4.
 We are going to make two charts in one figure, laid out side-by-side. In other words, the figure will have one row and two columns, like this:
@@ -16,7 +16,7 @@ subplots
 
 Write the command to create the left subplot (the one that would correspond to the plot with a star in our example figure). Save this subplot in a variable called ax1.
 
-Stuck? Get a hint
+
 
 
 5.
@@ -38,7 +38,6 @@ Plot the total page visits against these x_values as a line.
 8.
 Give the line markers that will help show each month as a distinct value.
 
-Stuck? Get a hint
 
 9.
 Label the x-axis and y-axis with descriptive titles of what they measure.
@@ -46,12 +45,12 @@ Label the x-axis and y-axis with descriptive titles of what they measure.
 10.
 Set the x-axis ticks to be the x_values.
 
-Stuck? Get a hint
+
 
 11.
 Label the x-axis tick labels to be the names stored in the months list.
 
-Stuck? Get a hint
+
 
 Plotting multiple lime species
 12.
